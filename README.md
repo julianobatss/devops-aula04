@@ -1,5 +1,6 @@
 # devops-aula04
 
 Senhor dos aneis <br>
-Vingadores <br>
-Ford vs Ferrari
+Star Wars <br>
+Ford vs Ferrari <br>
+Homem aranha
